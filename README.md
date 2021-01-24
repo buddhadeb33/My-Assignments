@@ -1,4 +1,6 @@
-# MY ASSIGNMENT ![](https://dimensionless.in/wp-content/uploads/2018/10/OyGx.gif)
+# MY ASSIGNMENT 
+
+<img align='right' src="https://dimensionless.in/wp-content/uploads/2018/10/OyGx.gif" width="230" />
 
 
 
