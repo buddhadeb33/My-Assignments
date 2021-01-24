@@ -11,3 +11,5 @@
 
 ![](https://github.com/aaroha33/My-Assignments/blob/main/Image/retail_wordcloud.png)
 
+#### In this repository I have described about feature store; slides, pdf has been uploaded.
+### A real life problem analysis has been shown in the ipynb file.
