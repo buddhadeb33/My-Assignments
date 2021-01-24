@@ -3,5 +3,9 @@
 * Map all the retailer product to top 3-4 best possible match on ABC side. Use any NLP technique to the achieve the objective
 * Things to keep in mind- we have not provided any training data- please create one if needed, clearly comment your code.
 
+![](https://www.kdnuggets.com/wp-content/uploads/learning-word-representations.jpg)
+
+![ ](https://github.com/aaroha33/My-Assignments/blob/main/Image/mnf_tfidf.png)
+
 ![](https://github.com/aaroha33/My-Assignments/blob/main/Image/retail_wordcloud.png)
 
